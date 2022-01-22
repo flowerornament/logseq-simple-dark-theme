@@ -2,4 +2,4 @@
 Simple dark theme for Logseq
 
 ## Example
-<img width="1420" alt="Screen Shot 2022-01-21 at 5 20 26 PM" src="https://user-images.githubusercontent.com/31774/150619052-3e88b2a3-35dc-447c-973e-b20461bc125b.png">
+<img width="1420" alt="Screen Shot 2022-01-21 at 5 23 20 PM" src="https://user-images.githubusercontent.com/31774/150619176-77f68866-c90a-457c-96e3-673d755cb8d3.png">
