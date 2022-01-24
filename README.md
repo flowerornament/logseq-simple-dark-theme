@@ -1,4 +1,4 @@
-# logseq-simple-dark-theme
+# Simple Dark Theme
 
 Simple dark theme for Logseq based on [logseq-bonofix-theme](https://github.com/Sansui233/logseq-bonofix-theme/) that aims to tweak the colors of the default theme to match Mac OS X dark mode.
 
