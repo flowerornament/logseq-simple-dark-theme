@@ -10,4 +10,4 @@ You might prefer [logseq-simple-parametric-theme](https://github.com/flowerornam
 
 ## Status
 
-This theme was put together hastily and I don't plan to maintain it actively, but I hope you find it useful. Pull-requests very welcome.
+This theme was put together hastily and I'm no longer iterating it. See [logseq-simple-parametric-theme](https://github.com/flowerornament/logseq-simple-parametric-theme) for something that's similar and more up-to-date.
